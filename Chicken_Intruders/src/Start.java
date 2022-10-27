@@ -5,7 +5,7 @@ public class Start extends JFrame {
 
     public Start() {
         add(new Game());
-        setTitle("Game");
+        setTitle("ChickenIntruders");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(1200, 900);
         setLocationRelativeTo(null);
